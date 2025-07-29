@@ -1,0 +1,69 @@
+name: f_quiz_app
+description: "An example of a quiz on Flutter by Alexander Fednov"
+publish_to: 'none'
+version: 0.1.5+6
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Email validation
+  email_validator: 3.0.0  
+  # Firebase Services
+  firebase_core: 3.15.1
+  cloud_firestore: 5.6.11
+  firebase_auth: 5.6.2     
+  # State management and Depency injection  
+  flutter_riverpod: 2.6.1
+  # DateTime format
+  intl: 0.20.2
+  # Better stream management
+  rxdart: 0.28.0 
+  # Set the dimensions for the adaptive interface
+  sizer: 3.0.5
+  # Generate unique id
+  uuid: 4.5.1 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 5.0.0
+  # Additional linter
+  lints: 5.0.0
+  very_good_analysis: 7.0.0
+  # Generate app logo
+  flutter_launcher_icons: 0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/
+   - assets/questions/
+   - assets/images/png/
+   - assets/images/logo/
+   
+  fonts:
+    - family: OrelegaOne
+      fonts: 
+        - asset: assets/fonts/OrelegaOne-Regular.ttf
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: 
+  image_path: "assets/images/logo/app_logo.png"
+  min_sdk_android: 23
+  web:
+    generate: true
+    image_path: "assets/images/logo/app_logo.png"
+  windows:
+    generate: true
+    image_path: "assets/images/logo/app_logo.png"
+    icon_size: 48 
+  macos:
+    generate: true
+    image_path: "assets/images/logo/app_logo.png"
+   

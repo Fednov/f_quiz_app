@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Общие вопросы",
+        "questions": [
+               {"questionText" : "Фамилия певца - Иван ...", "answers" : [
+        {"text": "Борн", "isCorrect": false},
+        {"text": "Горн", "isCorrect": false},
+        {"text": "Дорн", "isCorrect": true},
+        {"text": "Порн", "isCorrect": false}]},
+        {
+      "questionText": "Воинское звание маршала Рыбалко",
+      "answers": [
+        {"text": "Мастер", "isCorrect": false},
+        {"text": "Командир", "isCorrect": false},
+        {"text": "Лейтенант", "isCorrect": false},
+        {"text": "Маршал", "isCorrect": true}
+      ]
+    },{
+      "questionText": "Если внутрь кладут творог получается",
+      "answers": [
+        {"text": "Горох", "isCorrect": false},
+        {"text": "Пирог", "isCorrect": true},
+        {"text": "Жирок", "isCorrect": false},
+        {"text": "Курок", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Если поверху кладут, то ... зовут",
+      "answers": [
+        {"text": "Хлопушкою", "isCorrect": false},
+        {"text": "Матрёшкою", "isCorrect": false},
+        {"text": "Ватрушкою", "isCorrect": true},
+        {"text": "Кадушкою", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Супруга певца Л.Агутина",
+      "answers": [
+        {"text": "Варлей", "isCorrect": false},
+        {"text": "Варум", "isCorrect": true},
+        {"text": "Влади", "isCorrect": false},
+        {"text": "Пугачёва", "isCorrect": false}
+      ]
+    }
+  ]       
+ },
+ {
+  "title": "Кино СССР",
+  "questions": [
+     {
+      "questionText":"Кто сыграл Шурика в комедии Л.Гайдая \"Кавказская пленница\"?",
+      "answers": [
+        {"text": "Ю.Никулин", "isCorrect": false},
+        {"text": "С.Филипов", "isCorrect": false},
+        {"text": "А.Демьяненко", "isCorrect": true},
+        {"text": "А.Миронов", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Режиссёр картины \"Джентльмены удачи\" 1971 г.",
+      "answers": [
+        {"text": "А. Серый", "isCorrect": true},
+        {"text": "Г. Данелия", "isCorrect": false},
+        {"text": "А. Хачатурян", "isCorrect": false},
+        {"text": "М. Захаров", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Фамилия главного героя картины \"Афоня\" 1975 г.",
+      "answers": [
+        {"text": "Трошкин", "isCorrect": false},
+        {"text": "Суслин", "isCorrect": false},
+        {"text": "Петренко", "isCorrect": false},
+        {"text": "Борщёв", "isCorrect": true}
+      ]
+    },
+    {
+      "questionText":
+          "Кто сыграл следователя Подберёзовикова в картине \"Берегись автомобиля\" 1966 г.?",
+      "answers": [
+        {"text": "И. Смоктуновский", "isCorrect": false},
+        {"text": "О. Ефремов", "isCorrect": true},
+        {"text": "А. Папанов", "isCorrect": false},
+        {"text": "Ю. Яковлев", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Режиссёр картины \"Приходите завтра\" 1963 г.",
+      "answers": [
+        {"text": "Л. Гайдай", "isCorrect": false},
+        {"text": "Э. Рязанов", "isCorrect": false},
+        {"text": "Е. Ташков", "isCorrect": true},
+        {"text": "И. Ильинский", "isCorrect": false}
+      ]
+    }
+  ]},
+  {  "title": "Космос",
+  "questions": [
+{
+      "questionText": "Сколько планет в Солнечной системе?",
+      "answers": [
+        {"text": "7", "isCorrect": false},
+        {"text": "8", "isCorrect": true},
+        {"text": "9", "isCorrect": false},
+        {"text": "10", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Самая горячая планета в Солнечной системе?",
+      "answers": [
+        {"text": "Марс", "isCorrect": false},
+        {"text": "Венера", "isCorrect": true},
+        {"text": "Нептун", "isCorrect": false},
+        {"text": "Сатурн", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "В каком году состоялась первая в мире высадка на Луну?",
+      "answers": [
+        {"text": "1962", "isCorrect": false},
+        {"text": "1965", "isCorrect": false},
+        {"text": "1969", "isCorrect": true},
+        {"text": "1975", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText":
+          "Какое небесное тело в солнечной системе было лишено статуса классической планеты в 2006 г.?",
+      "answers": [
+        {"text": "Сириус", "isCorrect": false},
+        {"text": "Большая медведица", "isCorrect": false},
+        {"text": "Венера", "isCorrect": false},
+        {"text": "Плутон", "isCorrect": true}
+      ]
+    },
+    {
+      "questionText": "В каком году состоялся первый полёт человека в космос?",
+      "answers": [
+        {"text": "1960", "isCorrect": false},
+        {"text": "1961", "isCorrect": true},
+        {"text": "1962", "isCorrect": false},
+        {"text": "1963", "isCorrect": false}
+      ]
+    }
+  ]}      
+]
